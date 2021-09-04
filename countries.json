@@ -11,6 +11,6 @@
    
       {"country":"AR","name":"Argentina","currency":"ARS","url":"https://img.icons8.com/color/2x/argentina-circular.png","saldo":0},
       {"country":"BR","name":"Brazil","currency":"BRL","url":"https://img.icons8.com/color/2x/brazil-circular.png","saldo":0},
-      {"country":"MX","name":"Mejico","currency":"MXN","url":"https://img.icons8.com/color/2x/mexico-circular.png","saldo":0},
+      {"country":"MX","name":"Mejico","currency":"MXN","url":"https://img.icons8.com/color/2x/mexico-circular.png","saldo":0}
    ]
    }
